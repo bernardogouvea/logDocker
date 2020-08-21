@@ -1,0 +1,281 @@
+db8.2d14: Log file opened: 5.2.8r121009 g_hStartupLog=0000000000000090 g_uNtVerCombined=0xa047ba00
+db8.2d14: \SystemRoot\System32\ntdll.dll:
+db8.2d14:     CreationTime:    2020-05-13T20:34:29.979214400Z
+db8.2d14:     LastWriteTime:   2020-05-13T20:34:30.057961900Z
+db8.2d14:     ChangeTime:      2020-08-12T21:14:43.340860600Z
+db8.2d14:     FileAttributes:  0x20
+db8.2d14:     Size:            0x1e8460
+db8.2d14:     NT Headers:      0xd8
+db8.2d14:     Timestamp:       0xb29ecf52
+db8.2d14:     Machine:         0x8664 - amd64
+db8.2d14:     Timestamp:       0xb29ecf52
+db8.2d14:     Image Version:   10.0
+db8.2d14:     SizeOfImage:     0x1f0000 (2031616)
+db8.2d14:     Resource Dir:    0x17f000 LB 0x6f310
+db8.2d14:     [Version info resource found at 0xd8! (ID/Name: 0x1; SubID/SubName: 0x409)]
+db8.2d14:     [Raw version resource data: 0x17f0f0 LB 0x380, codepage 0x0 (reserved 0x0)]
+db8.2d14:     ProductName:     Microsoft® Windows® Operating System
+db8.2d14:     ProductVersion:  10.0.18362.815
+db8.2d14:     FileVersion:     10.0.18362.815 (WinBuild.160101.0800)
+db8.2d14:     FileDescription: NT Layer DLL
+db8.2d14: \SystemRoot\System32\kernel32.dll:
+db8.2d14:     CreationTime:    2020-07-15T12:06:09.274991800Z
+db8.2d14:     LastWriteTime:   2020-07-15T12:06:09.313885100Z
+db8.2d14:     ChangeTime:      2020-08-12T21:14:42.404925700Z
+db8.2d14:     FileAttributes:  0x20
+db8.2d14:     Size:            0xb0498
+db8.2d14:     NT Headers:      0xe8
+db8.2d14:     Timestamp:       0xce6bbd73
+db8.2d14:     Machine:         0x8664 - amd64
+db8.2d14:     Timestamp:       0xce6bbd73
+db8.2d14:     Image Version:   10.0
+db8.2d14:     SizeOfImage:     0xb2000 (729088)
+db8.2d14:     Resource Dir:    0xb0000 LB 0x520
+db8.2d14:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+db8.2d14:     [Raw version resource data: 0xb00b0 LB 0x3a4, codepage 0x0 (reserved 0x0)]
+db8.2d14:     ProductName:     Microsoft® Windows® Operating System
+db8.2d14:     ProductVersion:  10.0.18362.959
+db8.2d14:     FileVersion:     10.0.18362.959 (WinBuild.160101.0800)
+db8.2d14:     FileDescription: Windows NT BASE API Client DLL
+db8.2d14: \SystemRoot\System32\KernelBase.dll:
+db8.2d14:     CreationTime:    2020-08-12T21:13:14.350884200Z
+db8.2d14:     LastWriteTime:   2020-08-12T21:13:14.451696000Z
+db8.2d14:     ChangeTime:      2020-08-13T07:06:50.065738500Z
+db8.2d14:     FileAttributes:  0x20
+db8.2d14:     Size:            0x2a3868
+db8.2d14:     NT Headers:      0xf8
+db8.2d14:     Timestamp:       0x91b9349a
+db8.2d14:     Machine:         0x8664 - amd64
+db8.2d14:     Timestamp:       0x91b9349a
+db8.2d14:     Image Version:   10.0
+db8.2d14:     SizeOfImage:     0x2a4000 (2768896)
+db8.2d14:     Resource Dir:    0x27e000 LB 0x548
+db8.2d14:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+db8.2d14:     [Raw version resource data: 0x27e0b0 LB 0x3bc, codepage 0x0 (reserved 0x0)]
+db8.2d14:     ProductName:     Microsoft® Windows® Operating System
+db8.2d14:     ProductVersion:  10.0.18362.997
+db8.2d14:     FileVersion:     10.0.18362.997 (WinBuild.160101.0800)
+db8.2d14:     FileDescription: Windows NT BASE API Client DLL
+db8.2d14: \SystemRoot\System32\apisetschema.dll:
+db8.2d14:     CreationTime:    2019-03-19T04:43:54.837151500Z
+db8.2d14:     LastWriteTime:   2019-03-19T04:43:54.837151500Z
+db8.2d14:     ChangeTime:      2020-08-12T21:14:42.362040800Z
+db8.2d14:     FileAttributes:  0x20
+db8.2d14:     Size:            0x1d028
+db8.2d14:     NT Headers:      0xc8
+db8.2d14:     Timestamp:       0xd6ced080
+db8.2d14:     Machine:         0x8664 - amd64
+db8.2d14:     Timestamp:       0xd6ced080
+db8.2d14:     Image Version:   10.0
+db8.2d14:     SizeOfImage:     0x1e000 (122880)
+db8.2d14:     Resource Dir:    0x1d000 LB 0x408
+db8.2d14:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+db8.2d14:     [Raw version resource data: 0x1d060 LB 0x3a8, codepage 0x0 (reserved 0x0)]
+db8.2d14:     ProductName:     Microsoft® Windows® Operating System
+db8.2d14:     ProductVersion:  10.0.18362.1
+db8.2d14:     FileVersion:     10.0.18362.1 (WinBuild.160101.0800)
+db8.2d14:     FileDescription: ApiSet Schema DLL
+db8.2d14: NtOpenDirectoryObject failed on \Driver: 0xc0000022
+db8.2d14: supR3HardenedWinFindAdversaries: 0x0
+db8.2d14: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox'
+db8.2d14: Calling main()
+db8.2d14: SUPR3HardenedMain: pszProgName=VBoxHeadless fFlags=0x0
+db8.2d14: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox'
+db8.2d14: SUPR3HardenedMain: Respawn #1
+db8.2d14: System32:  \Device\HarddiskVolume3\Windows\System32
+db8.2d14: WinSxS:    \Device\HarddiskVolume3\Windows\WinSxS
+db8.2d14: KnownDllPath: C:\WINDOWS\System32
+db8.2d14: '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe' has no imports
+db8.2d14: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe)
+db8.2d14: supR3HardNtEnableThreadCreation:
+db8.2d14: supR3HardNtDisableThreadCreation: pvLdrInitThunk=00007ffbf6a11770 pvNtTerminateThread=00007ffbf6a3cac0
+db8.2d14: supR3HardenedWinDoReSpawn(1): New child 1ab0.40c [kernel32].
+db8.2d14: supR3HardNtChildGatherData: PebBaseAddress=0000000000665000 cbPeb=0x388
+db8.2d14: supR3HardNtPuChFindNtdll: uNtDllParentAddr=00007ffbf69a0000 uNtDllChildAddr=00007ffbf69a0000
+db8.2d14: supR3HardenedWinSetupChildInit: uLdrInitThunk=00007ffbf6a11770
+db8.2d14: supR3HardenedWinSetupChildInit: Start child.
+db8.2d14: supR3HardNtChildWaitFor: Found expected request 0 (PurifyChildAndCloseHandles) after 83 ms.
+db8.2d14: supR3HardNtChildPurify: Startup delay kludge #1/0: 262 ms, 30 sleeps
+db8.2d14: supHardNtVpScanVirtualMemory: enmKind=CHILD_PURIFICATION
+db8.2d14:  *0000000000000000-00000000005dffff 0x0001/0x0000 0x0000000
+db8.2d14:  *00000000005e0000-00000000005fffff 0x0004/0x0004 0x0020000
+db8.2d14:  *0000000000600000-0000000000664fff 0x0000/0x0004 0x0020000
+db8.2d14:   0000000000665000-0000000000667fff 0x0004/0x0004 0x0020000
+db8.2d14:   0000000000668000-00000000007fffff 0x0000/0x0004 0x0020000
+db8.2d14:  *0000000000800000-000000000081afff 0x0002/0x0002 0x0040000
+db8.2d14:   000000000081b000-000000000081ffff 0x0001/0x0000 0x0000000
+db8.2d14:  *0000000000820000-000000000091afff 0x0000/0x0004 0x0020000
+db8.2d14:   000000000091b000-000000000091dfff 0x0104/0x0004 0x0020000
+db8.2d14:   000000000091e000-000000000091ffff 0x0004/0x0004 0x0020000
+db8.2d14:  *0000000000920000-0000000000923fff 0x0002/0x0002 0x0040000
+db8.2d14:   0000000000924000-000000000092ffff 0x0001/0x0000 0x0000000
+db8.2d14:  *0000000000930000-0000000000931fff 0x0004/0x0004 0x0020000
+db8.2d14:   0000000000932000-000000007ffdffff 0x0001/0x0000 0x0000000
+db8.2d14:  *000000007ffe0000-000000007ffe0fff 0x0002/0x0002 0x0020000
+db8.2d14:   000000007ffe1000-000000007ffe6fff 0x0001/0x0000 0x0000000
+db8.2d14:  *000000007ffe7000-000000007ffe7fff 0x0002/0x0002 0x0020000
+db8.2d14:   000000007ffe8000-00007ff5680cffff 0x0001/0x0000 0x0000000
+db8.2d14:  *00007ff5680d0000-00007ff5680d0fff 0x0002/0x0002 0x0040000
+db8.2d14:   00007ff5680d1000-00007ff5680dffff 0x0001/0x0000 0x0000000
+db8.2d14:  *00007ff5680e0000-00007ff568102fff 0x0002/0x0002 0x0040000
+db8.2d14:   00007ff568103000-00007ff75dafffff 0x0001/0x0000 0x0000000
+db8.2d14:  *00007ff75db00000-00007ff75db00fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+db8.2d14:   00007ff75db01000-00007ff75db71fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+db8.2d14:   00007ff75db72000-00007ff75db72fff 0x0080/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+db8.2d14:   00007ff75db73000-00007ff75dbb8fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+db8.2d14:   00007ff75dbb9000-00007ff75dbb9fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+db8.2d14:   00007ff75dbba000-00007ff75dbbafff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+db8.2d14:   00007ff75dbbb000-00007ff75dbbffff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+db8.2d14:   00007ff75dbc0000-00007ff75dbc0fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+db8.2d14:   00007ff75dbc1000-00007ff75dbc1fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+db8.2d14:   00007ff75dbc2000-00007ff75dbc5fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+db8.2d14:   00007ff75dbc6000-00007ff75dc0dfff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+db8.2d14:   00007ff75dc0e000-00007ffbf699ffff 0x0001/0x0000 0x0000000
+db8.2d14:  *00007ffbf69a0000-00007ffbf69a0fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+db8.2d14:   00007ffbf69a1000-00007ffbf6ab7fff 0x0020/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+db8.2d14:   00007ffbf6ab8000-00007ffbf6afefff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+db8.2d14:   00007ffbf6aff000-00007ffbf6b04fff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+db8.2d14:   00007ffbf6b05000-00007ffbf6b05fff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+db8.2d14:   00007ffbf6b06000-00007ffbf6b0afff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+db8.2d14:   00007ffbf6b0b000-00007ffbf6b19fff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+db8.2d14:   00007ffbf6b1a000-00007ffbf6b1afff 0x0004/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+db8.2d14:   00007ffbf6b1b000-00007ffbf6b1dfff 0x0008/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+db8.2d14:   00007ffbf6b1e000-00007ffbf6b8ffff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+db8.2d14:   00007ffbf6b90000-00007ffffffeffff 0x0001/0x0000 0x0000000
+db8.2d14: VBoxHeadless.exe: timestamp 0x5a942b95 (rc=VINF_SUCCESS)
+db8.2d14: '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe' has no imports
+db8.2d14: '\Device\HarddiskVolume3\Windows\System32\ntdll.dll' has no imports
+db8.2d14: supR3HardNtChildPurify: Done after 327 ms and 0 fixes (loop #0).
+db8.2d14: supR3HardNtEnableThreadCreation:
+1ab0.40c: Log file opened: 5.2.8r121009 g_hStartupLog=0000000000000008 g_uNtVerCombined=0xa047ba00
+1ab0.40c: supR3HardenedVmProcessInit: uNtDllAddr=00007ffbf69a0000 g_uNtVerCombined=0xa047ba00
+1ab0.40c: ntdll.dll: timestamp 0xb29ecf52 (rc=VINF_SUCCESS)
+1ab0.40c: New simple heap: #1 0000000000a40000 LB 0x400000 (for 2031616 allocation)
+1ab0.40c: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox'
+1ab0.40c: System32:  \Device\HarddiskVolume3\Windows\System32
+1ab0.40c: WinSxS:    \Device\HarddiskVolume3\Windows\WinSxS
+1ab0.40c: KnownDllPath: C:\WINDOWS\System32
+1ab0.40c: supR3HardenedVmProcessInit: Opening vboxdrv stub...
+1ab0.40c: supR3HardenedVmProcessInit: Restoring LdrInitializeThunk...
+1ab0.40c: supR3HardenedVmProcessInit: Returning to LdrInitializeThunk...
+1ab0.40c: Registered Dll notification callback with NTDLL.
+1ab0.40c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume3\Windows\System32\kernel32.dll)
+1ab0.40c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume3\Windows\System32\kernel32.dll
+1ab0.40c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\KERNEL32.DLL (Input=KERNEL32.DLL, rcNtResolve=0xc0150008) *pfFlags=0xffffffff pwszSearchPath=0000000000004001:<flags> [calling]
+1ab0.40c: supR3HardenedDllNotificationCallback: load   00007ffbf41f0000 LB 0x002a4000 C:\WINDOWS\System32\KERNELBASE.dll [fFlags=0x0]
+1ab0.40c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume3\Windows\System32\KernelBase.dll)
+1ab0.40c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume3\Windows\System32\KernelBase.dll
+1ab0.40c: supR3HardenedDllNotificationCallback: load   00007ffbf5ea0000 LB 0x000b2000 C:\WINDOWS\System32\KERNEL32.DLL [fFlags=0x0]
+1ab0.40c: supR3HardenedScreenImage/LdrLoadDll: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume3\Windows\System32\kernel32.dll [lacks WinVerifyTrust]
+1ab0.40c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffbf5ea0000 'C:\WINDOWS\System32\KERNEL32.DLL'
+1ab0.40c: supR3HardenedDllNotificationCallback: load   00007ff75db00000 LB 0x0010e000 C:\Program Files\Oracle\VirtualBox\VBoxHeadless.exe [fFlags=0x0]
+1ab0.40c: '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe' has no imports
+1ab0.40c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe)
+1ab0.40c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe
+1ab0.40c: supR3HardNtDisableThreadCreation: pvLdrInitThunk=00007ffbf6a11770 pvNtTerminateThread=00007ffbf6a3cac0
+db8.2d14: supR3HardNtChildWaitFor: Found expected request 1 (CloseEvents) after 91 ms.
+1ab0.40c: \SystemRoot\System32\ntdll.dll:
+1ab0.40c:     CreationTime:    2020-05-13T20:34:29.979214400Z
+1ab0.40c:     LastWriteTime:   2020-05-13T20:34:30.057961900Z
+1ab0.40c:     ChangeTime:      2020-08-12T21:14:43.340860600Z
+1ab0.40c:     FileAttributes:  0x20
+1ab0.40c:     Size:            0x1e8460
+1ab0.40c:     NT Headers:      0xd8
+1ab0.40c:     Timestamp:       0xb29ecf52
+1ab0.40c:     Machine:         0x8664 - amd64
+1ab0.40c:     Timestamp:       0xb29ecf52
+1ab0.40c:     Image Version:   10.0
+1ab0.40c:     SizeOfImage:     0x1f0000 (2031616)
+1ab0.40c:     Resource Dir:    0x17f000 LB 0x6f310
+1ab0.40c:     [Version info resource found at 0xd8! (ID/Name: 0x1; SubID/SubName: 0x409)]
+1ab0.40c:     [Raw version resource data: 0x17f0f0 LB 0x380, codepage 0x0 (reserved 0x0)]
+1ab0.40c:     ProductName:     Microsoft® Windows® Operating System
+1ab0.40c:     ProductVersion:  10.0.18362.815
+1ab0.40c:     FileVersion:     10.0.18362.815 (WinBuild.160101.0800)
+1ab0.40c:     FileDescription: NT Layer DLL
+1ab0.40c: \SystemRoot\System32\kernel32.dll:
+1ab0.40c:     CreationTime:    2020-07-15T12:06:09.274991800Z
+1ab0.40c:     LastWriteTime:   2020-07-15T12:06:09.313885100Z
+1ab0.40c:     ChangeTime:      2020-08-12T21:14:42.404925700Z
+1ab0.40c:     FileAttributes:  0x20
+1ab0.40c:     Size:            0xb0498
+1ab0.40c:     NT Headers:      0xe8
+1ab0.40c:     Timestamp:       0xce6bbd73
+1ab0.40c:     Machine:         0x8664 - amd64
+1ab0.40c:     Timestamp:       0xce6bbd73
+1ab0.40c:     Image Version:   10.0
+1ab0.40c:     SizeOfImage:     0xb2000 (729088)
+1ab0.40c:     Resource Dir:    0xb0000 LB 0x520
+1ab0.40c:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+1ab0.40c:     [Raw version resource data: 0xb00b0 LB 0x3a4, codepage 0x0 (reserved 0x0)]
+1ab0.40c:     ProductName:     Microsoft® Windows® Operating System
+1ab0.40c:     ProductVersion:  10.0.18362.959
+1ab0.40c:     FileVersion:     10.0.18362.959 (WinBuild.160101.0800)
+1ab0.40c:     FileDescription: Windows NT BASE API Client DLL
+1ab0.40c: \SystemRoot\System32\KernelBase.dll:
+1ab0.40c:     CreationTime:    2020-08-12T21:13:14.350884200Z
+1ab0.40c:     LastWriteTime:   2020-08-12T21:13:14.451696000Z
+1ab0.40c:     ChangeTime:      2020-08-13T07:06:50.065738500Z
+1ab0.40c:     FileAttributes:  0x20
+1ab0.40c:     Size:            0x2a3868
+1ab0.40c:     NT Headers:      0xf8
+1ab0.40c:     Timestamp:       0x91b9349a
+1ab0.40c:     Machine:         0x8664 - amd64
+1ab0.40c:     Timestamp:       0x91b9349a
+1ab0.40c:     Image Version:   10.0
+1ab0.40c:     SizeOfImage:     0x2a4000 (2768896)
+1ab0.40c:     Resource Dir:    0x27e000 LB 0x548
+1ab0.40c:     [Version info resource found at 0x90! (ID/Name: 0x1; SubID/SubName: 0x409)]
+1ab0.40c:     [Raw version resource data: 0x27e0b0 LB 0x3bc, codepage 0x0 (reserved 0x0)]
+1ab0.40c:     ProductName:     Microsoft® Windows® Operating System
+1ab0.40c:     ProductVersion:  10.0.18362.997
+1ab0.40c:     FileVersion:     10.0.18362.997 (WinBuild.160101.0800)
+1ab0.40c:     FileDescription: Windows NT BASE API Client DLL
+1ab0.40c: \SystemRoot\System32\apisetschema.dll:
+1ab0.40c:     CreationTime:    2019-03-19T04:43:54.837151500Z
+1ab0.40c:     LastWriteTime:   2019-03-19T04:43:54.837151500Z
+1ab0.40c:     ChangeTime:      2020-08-12T21:14:42.362040800Z
+1ab0.40c:     FileAttributes:  0x20
+1ab0.40c:     Size:            0x1d028
+1ab0.40c:     NT Headers:      0xc8
+1ab0.40c:     Timestamp:       0xd6ced080
+1ab0.40c:     Machine:         0x8664 - amd64
+1ab0.40c:     Timestamp:       0xd6ced080
+1ab0.40c:     Image Version:   10.0
+1ab0.40c:     SizeOfImage:     0x1e000 (122880)
+1ab0.40c:     Resource Dir:    0x1d000 LB 0x408
+1ab0.40c:     [Version info resource found at 0x48! (ID/Name: 0x1; SubID/SubName: 0x409)]
+1ab0.40c:     [Raw version resource data: 0x1d060 LB 0x3a8, codepage 0x0 (reserved 0x0)]
+1ab0.40c:     ProductName:     Microsoft® Windows® Operating System
+1ab0.40c:     ProductVersion:  10.0.18362.1
+1ab0.40c:     FileVersion:     10.0.18362.1 (WinBuild.160101.0800)
+1ab0.40c:     FileDescription: ApiSet Schema DLL
+1ab0.40c: NtOpenDirectoryObject failed on \Driver: 0xc0000022
+1ab0.40c: supR3HardenedWinFindAdversaries: 0x0
+1ab0.40c: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox'
+1ab0.40c: Calling main()
+1ab0.40c: SUPR3HardenedMain: pszProgName=VBoxHeadless fFlags=0x0
+1ab0.40c: supR3HardenedWinInitAppBin(0x0): '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox'
+1ab0.40c: '\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe' has no imports
+1ab0.40c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume3\Program Files\Oracle\VirtualBox\VBoxHeadless.exe)
+1ab0.40c: SUPR3HardenedMain: Respawn #2
+1ab0.40c: supR3HardNtEnableThreadCreation:
+1ab0.40c: supR3HardenedDllNotificationCallback: load   00007ffbf5cb0000 LB 0x00120000 C:\WINDOWS\System32\RPCRT4.dll [fFlags=0x0]
+1ab0.40c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume3\Windows\System32\rpcrt4.dll)
+1ab0.40c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume3\Windows\System32\rpcrt4.dll
+1ab0.40c: supR3HardenedDllNotificationCallback: load   00007ffbf4bb0000 LB 0x00097000 C:\WINDOWS\System32\sechost.dll [fFlags=0x0]
+1ab0.40c: supR3HardenedWinVerifyCacheScheduleImports: Import todo: #11 'rpcrt4.dll'.
+1ab0.40c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume3\Windows\System32\sechost.dll)
+1ab0.40c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume3\Windows\System32\sechost.dll
+1ab0.40c: '\Device\HarddiskVolume3\Windows\System32\ntdll.dll' has no imports
+1ab0.40c: supHardenedWinVerifyImageByHandle: -> 0 (\Device\HarddiskVolume3\Windows\System32\ntdll.dll)
+1ab0.40c: supR3HardenedWinVerifyCacheInsert: \Device\HarddiskVolume3\Windows\System32\ntdll.dll
+1ab0.40c: supR3HardenedWinVerifyCacheProcessImportTodos: Processing 'rpcrt4.dll'...
+1ab0.40c: supR3HardenedWinVerifyCacheProcessImportTodos: 'rpcrt4.dll' -> '\Device\HarddiskVolume3\Windows\System32\rpcrt4.dll' [rcNtRedir=0xc0150008]
+1ab0.40c: supR3HardenedScreenImage/Imports: cache hit (VINF_SUCCESS) on \Device\HarddiskVolume3\Windows\System32\rpcrt4.dll [lacks WinVerifyTrust]
+1ab0.40c: supR3HardenedMonitor_LdrLoadDll: pName=C:\WINDOWS\System32\ntdll.dll (Input=ntdll.dll, rcNtResolve=0xc0150008) *pfFlags=0x0 pwszSearchPath=0000000000000801:<flags> [calling]
+1ab0.40c: supR3HardenedMonitor_LdrLoadDll: returns rcNt=0x0 hMod=00007ffbf69a0000 'C:\WINDOWS\System32\ntdll.dll'
+1ab0.40c: Error -104 in supR3HardenedWinReSpawn! (enmWhat=5)
+1ab0.40c: Error relaunching VirtualBox VM process: 5
+Command line: '60eaff78-4bdd-042d-2e72-669728efd737-suplib-3rdchild --comment default --startvm 90b27b81-1606-42b6-be39-d69b0c8fad39 --vrde config --sup-hardening-log=C:\Users\berna\.docker\machine\machines\default\default\Logs\VBoxHardening.log'
+db8.2d14: supR3HardNtChildWaitFor[1]: Quitting: ExitCode=0x1 (rcNtWait=0x0, rcNt1=0x0, rcNt2=0x103, rcNt3=0x103, 113 ms, the end);
